@@ -1,6 +1,6 @@
 # fundflow
 
-A new Flutter project.
+These are the screenshots of our working Application.
 
 ## Getting Started
 ![Screenshot (282)](https://github.com/user-attachments/assets/4f36c8cb-69de-42e2-acb8-c3fae241b16c)
